@@ -5,7 +5,7 @@
 
 <!-- Giriş ve Özeti -->
 <div align="center">
-  <h3>👨‍💻 Frontend Developer from Turkey</h3>
+  <h3>👨‍💻 Full Stack Developer from Turkey</h3>
   <p>Passionate about building seamless digital experiences and exploring the world of manga distribution.</p>
 </div>
 
