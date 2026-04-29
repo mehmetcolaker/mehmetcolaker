@@ -5,7 +5,7 @@
 
 <!-- Giriş ve Özeti -->
 <div align="center">
-  <h3>👨‍💻 Full Stack Developer from Turkey</h3>
+  <h3>👨‍💻 Frontend Developer from Turkey</h3>
   <p>Passionate about building seamless digital experiences and exploring the world of manga distribution.</p>
 </div>
 
@@ -30,7 +30,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mehmetcolaker&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Mehmet's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcolaker&theme=radical" alt="Mehmet's Streak" />
+        <!-- Streak linki daha stabil olan demolab ile değiştirildi -->
+        <img src="https://streak-stats.demolab.com/?user=mehmetcolaker&theme=radical" alt="Mehmet's Streak" />
       </td>
     </tr>
   </table>
@@ -38,12 +39,12 @@
 
 ---
 
-<!-- 🐍 Katkı Yılanı: Senin katkı grafiğinde dolaşan animasyonlu bir yılan (Günde bir güncellenir) -->
+<!-- 🐍 Katkı Yılanı: Senin katkı grafiğinde dolaşan animasyonlu bir yılan -->
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/mehmetcolaker/mehmetcolaker/output/github-contribution-snake.svg" alt="Contribution Snake" />
 </div>
-<i align="center" style="display: block; font-size: 12px; color: gray;">Note: This snake updates daily based on your activity grid.</i>
+<i align="center" style="display: block; font-size: 12px; color: gray;">Note: Run the GitHub Action once to generate the snake for the first time.</i>
 
 ---
 
@@ -55,7 +56,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
 </p>
 
 **Backend & Database**
